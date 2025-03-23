@@ -1,5 +1,5 @@
-# ma-txt
-Indicador MetaTrader 5 para exportar a média móvel para arquivos TXT.  
+# ma-mt5
+Aplicativo MetaTrader 5 para exportar médias móveis em CSV.  
 
-Faça o download e execute no seu MetaTrader 5:  
-https://tinyurl.com/vfranca-ma-txt
+Clique no link abaixo para fazer o download:  
+https://bit.ly/4hwC5TG
